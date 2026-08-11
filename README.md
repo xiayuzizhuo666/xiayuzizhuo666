@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wentao Cai | xiayu
 
-**Founder of Omind Brain | BCI & AI Interdisciplinary Developer | Cybersecurity Explorer**
+**Founder of Omind & Ludus | BCI & AI Agent Interdisciplinary Developer | Cybersecurity Explorer**
 
 - 🧠 Led the development of EEG-based assistive systems for individuals with motor impairments, incubated in Zhejiang University's "Z+" Science and Technology Innovation Camp
 - 🏆 National First Prize Winner of **CRAIC China Robot and Artificial Intelligence Competition (BCI Track)** and **AIC Global Campus AI Algorithm Elite Competition**
