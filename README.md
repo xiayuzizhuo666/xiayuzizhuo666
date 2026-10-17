@@ -30,4 +30,4 @@
 ## 📫 Contact Me
 
 - 📧 Email: xiayuzizhuo@gmail.com
-- 💼 Key Projects: **Omind Bridge**, **DecaGleam**
+- 💼 Key Projects: **Omind Bridge**, **Ludus**
